@@ -1,0 +1,11 @@
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\bin\Debug\netcoreapp2.1\ExercicioClasses3.deps.json
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\bin\Debug\netcoreapp2.1\ExercicioClasses3.runtimeconfig.json
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\bin\Debug\netcoreapp2.1\ExercicioClasses3.runtimeconfig.dev.json
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\bin\Debug\netcoreapp2.1\ExercicioClasses3.dll
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\bin\Debug\netcoreapp2.1\ExercicioClasses3.pdb
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\obj\Debug\netcoreapp2.1\ExercicioClasses3.csprojAssemblyReference.cache
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\obj\Debug\netcoreapp2.1\ExercicioClasses3.csproj.CoreCompileInputs.cache
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\obj\Debug\netcoreapp2.1\ExercicioClasses3.AssemblyInfoInputs.cache
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\obj\Debug\netcoreapp2.1\ExercicioClasses3.AssemblyInfo.cs
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\obj\Debug\netcoreapp2.1\ExercicioClasses3.dll
+C:\Users\Andie\Documents\csharp\ExercicioClasses3\ExercicioClasses3\obj\Debug\netcoreapp2.1\ExercicioClasses3.pdb
